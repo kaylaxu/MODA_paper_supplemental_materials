@@ -1,5 +1,7 @@
 # MODA_paper_supplemental_materials
 
+Supplemental materials for the paper "Evaluating peer-to-peer bioinformatics education: a case study of student learning outcomes and community impact in an undergraduate multi-omic data analysis course"
+
 course_calendar.pdf
 - a redacted MODA course calendar from the Spring 2024 semester
 
